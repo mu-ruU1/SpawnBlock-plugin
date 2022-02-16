@@ -1,0 +1,4 @@
+name: SpawnBlock
+version: '${project.version}'
+main: com.yuu.spawnblock.SpawnBlock
+api-version: 1.18
