@@ -2,3 +2,8 @@ name: SpawnBlock
 version: '${project.version}'
 main: com.yuu.spawnblock.SpawnBlock
 api-version: 1.18
+commands:
+  spawnblock:
+    description: 足元にブロックを出現させるコマンド
+    aliases:
+      - sb
